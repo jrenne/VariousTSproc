@@ -1,11 +1,10 @@
 Package: VariousTSproc
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Various time-series procedures
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Jean-Paul Renne
+Maintainer: The package maintainer <jean-paul.renne@m4x.org>
+Description: This package contains various time series procedures.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
